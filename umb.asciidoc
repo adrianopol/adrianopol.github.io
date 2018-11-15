@@ -11,6 +11,9 @@
 // Set caption for figures for the rest of the document to empty string.
 :figure-caption:
 
+
+link:index.html[На главную]
+
 https://www.strava.com/activities/1925171219
 
 image:img/20181015_085518.jpg[]
