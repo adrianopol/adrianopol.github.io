@@ -1,13 +1,16 @@
-Homepage
-========
+Home, sweet home
+================
 
-== T1 ==
+//TODO
+// set russian quotation marks
+//:ldquo: &#8222;
+//:rdquo: &#8220;
+//{set:ldquo:&laquo;}
+//{set:rdquo:&raquo;}
 
-qqq
+// Set caption for figures for the rest of the document to empty string.
+:figure-caption:
 
-== T2 ==
+== Походы ==
 
-=== T3 ===
-
-www eee
-rrr
+* 2018-2018.10.15: link:umb.html[Оленегорск--Ревда--Умбозеро--Апатиты]
