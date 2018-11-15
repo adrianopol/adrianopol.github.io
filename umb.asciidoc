@@ -1,5 +1,7 @@
 Оленегорск--Ревда--Умбозеро--Апатиты (2018.10.15--20)
 =====================================================
+Andrew Petelin <adrianopol@gmail.com>
+
 
 //TODO
 // set russian quotation marks
@@ -499,6 +501,16 @@ image:img/20181020_122901.jpg[]
 когда-нибудь туда состоится ещё одна поездка. Эта же получилась крайне увлекательной и насыщенной в
 разных смыслах этого слова, так что планы на будущие мероприятия мы стали обсуждать ещё по дороге к
 тёплому и сухому дому.
+
+
+[NOTE]
+====
+Всё оригинальное содержимое этой страницы доступно без каких-либо ограничений как относящееся к
+https://creativecommons.org/publicdomain/mark/1.0/[общественному достоянию].
+
+All original content of this page is in the
+https://creativecommons.org/publicdomain/mark/1.0/[public domain]. No rights reserved.
+====
 
 ++++
 <div id="disqus_thread"></div>
