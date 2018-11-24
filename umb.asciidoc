@@ -569,11 +569,10 @@ image:img/20181020_134152.jpg[]
 
 [NOTE]
 ====
-Всё оригинальное содержимое этой страницы доступно без каких-либо ограничений как относящееся к
-https://creativecommons.org/publicdomain/mark/1.0/[общественному достоянию].
-
+[small silver]__Всё оригинальное содержимое этой страницы доступно без каких-либо ограничений как
+относящееся к https://creativecommons.org/publicdomain/mark/1.0/[общественному достоянию]. +
 All original content of this page is in the
-https://creativecommons.org/publicdomain/mark/1.0/[public domain]. No rights reserved.
+https://creativecommons.org/publicdomain/mark/1.0/[public domain]. No rights reserved.__
 ====
 
 // comments: discus.com
