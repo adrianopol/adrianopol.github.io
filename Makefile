@@ -1,4 +1,4 @@
 default: index.html umb.html
 
-%.html: %.asciidoc
+%.html: %.adoc
 	asciidoctor $<
