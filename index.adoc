@@ -1,5 +1,5 @@
-Home, sweet home
-================
+&#9749;
+=======
 
 //TODO
 // set russian quotation marks
