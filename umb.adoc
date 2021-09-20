@@ -16,7 +16,7 @@ Andrew Petelin <adrianopol@gmail.com>
 
 link:index.html[На главную]
 
-Поездка на других ресурсах: https://www.komoot.com/tour/227682563[komoot],
+Поездка на других ресурсах: https://www.komoot.com/tour/305979843[komoot],
 http://veloradar.ru/map/?track_id=rhtgos[veloradar], https://www.strava.com/activities/1925171219[strava].
 
 image:img/20181015_085518.jpg[]
