@@ -13,5 +13,32 @@
 
 == Походы ==
 
-* 2018.10.15: link:umb.html[Оленегорск--Ревда--Умбозеро--Апатиты]
-* 2022.01.02: link:altai.html[Алтай на лыжах]
+=== Рассказы ===
+
+* 2022-01-02: link:altai.html[Алтай (лыжи)]
+* 2018-10-15: link:umb.html[Оленегорск--Ревда--Умбозеро--Апатиты (вело)]
+
+=== Чужие рассказы ===
+
+* 2020-08-28: Приполярный Урал (пеший): https://sebram.livejournal.com/73378.html[sebram],
+  https://an-2.livejournal.com/57635.html[an-2], https://www.komoot.com/tour/257522806[my-komoot]
+* 2019-03-15: Байкал (вело, зимний): https://an-2.livejournal.com/56891.html[an-2],
+  https://www.komoot.com/tour/305940779[my-komoot]
+* 2018-07-13: Байкал (байдарки): https://sebram.livejournal.com/63081.html[sebram],
+  https://an-2.livejournal.com/55629.html[an-2]
+* 2018-05-13: болота Оршинский мох (снегоступы): https://sebram.livejournal.com/61338.html[sebram],
+  https://www.komoot.com/tour/473014476[my-komoot]
+
+=== Треки без описания (Komoot) ===
+
+* 2021-01-10: https://www.komoot.com/tour/305305455[Долина реки Смородинки (лыжи)]
+* 2020-08-10: https://www.komoot.com/tour/305972769[Вдоль Оки (Пахомово — Таруса — Лукьяново; вело)]
+* 2020-05-04: https://www.komoot.com/tour/227052882[Бородино — Шаховская (вело)]
+* 2019-09-29: https://www.komoot.com/tour/227867774[Узуново — 163 км (вело)]
+* 2019-02-23: https://www.komoot.com/tour/305989584[Рождествено: к болотам и обратно (вело)]
+* 2017-08-07: https://www.komoot.com/tour/227875963[Бавария (вело)]
+* 2017-07-22: https://www.komoot.com/tour/237481782[132 км — Тарусская (вело)]
+
+=== Другое ===
+
+* Методичка -- «Собираемся в поход»: https://sebram.livejournal.com/55366.html[sebram]
