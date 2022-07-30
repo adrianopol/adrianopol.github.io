@@ -20,13 +20,18 @@
 
 === Чужие рассказы ===
 
-* 2020-08-28: Приполярный Урал (пеший): https://sebram.livejournal.com/73378.html[sebram],
-  https://an-2.livejournal.com/57635.html[an-2], https://www.komoot.com/tour/257522806[my-komoot]
-* 2019-03-15: Байкал (вело, зимний): https://an-2.livejournal.com/56891.html[an-2],
+* 2020-08-28: Приполярный Урал (пеший):
+  https://sebram.livejournal.com/73378.html[sebram],
+  https://an-2.livejournal.com/57635.html[an-2],
+  https://www.komoot.com/tour/257522806[my-komoot]
+* 2019-03-15: Байкал (вело, зимний):
+  https://an-2.livejournal.com/56891.html[an-2],
   https://www.komoot.com/tour/305940779[my-komoot]
-* 2018-07-13: Байкал (байдарки): https://sebram.livejournal.com/63081.html[sebram],
+* 2018-07-13: Байкал (байдарки):
+  https://sebram.livejournal.com/63081.html[sebram],
   https://an-2.livejournal.com/55629.html[an-2]
-* 2018-05-13: болота Оршинский мох (снегоступы): https://sebram.livejournal.com/61338.html[sebram],
+* 2018-05-13: болота Оршинский мох (снегоступы):
+  https://sebram.livejournal.com/61338.html[sebram],
   https://www.komoot.com/tour/473014476[my-komoot]
 
 === Треки без описания (Komoot) ===
