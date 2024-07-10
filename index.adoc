@@ -1,3 +1,4 @@
+:stylesdir: ./css
 // Set caption for figures for the rest of the document to empty string.
 :figure-caption:
 
@@ -8,7 +9,7 @@
 - link:articles/1984-08-01_ken-thompson_reflections-on-trusting-trust.html[Reflections on Trusting Trust (Ken Thompson, 1984)]
 - link:articles/2012-08-15_rob-pike_the-best-programming-advice-i-ever-got.html[The Best Programming Advice I Ever Got (Rob Pike, 2012)]
 
-== Походы (trips) ==
+== Походы (trips)
 
 //TODO
 // set russian quotation marks
@@ -17,12 +18,12 @@
 //{set:ldquo:&laquo;}
 //{set:rdquo:&raquo;}
 
-=== Рассказы ===
+=== Рассказы
 
 - 2022-01-02: link:altai.html[Алтай (лыжи)]
 - 2018-10-15: link:umb.html[Оленегорск--Ревда--Умбозеро--Апатиты (вело)]
 
-=== Чужие рассказы ===
+=== Чужие рассказы
 
 - 2020-08-28: Приполярный Урал (пеший):
   https://sebram.livejournal.com/73378.html[sebram],
@@ -38,16 +39,20 @@
   https://sebram.livejournal.com/61338.html[sebram],
   https://www.komoot.com/tour/473014476[my-komoot]
 
-=== Треки без описания (Komoot) ===
+=== Треки без описания (Komoot)
 
-* 2021-01-10: https://www.komoot.com/tour/305305455[Долина реки Смородинки (лыжи)]
-* 2020-08-10: https://www.komoot.com/tour/305972769[Вдоль Оки (Пахомово — Таруса — Лукьяново; вело)]
-* 2020-05-04: https://www.komoot.com/tour/227052882[Бородино — Шаховская (вело)]
-* 2019-09-29: https://www.komoot.com/tour/227867774[Узуново — 163 км (вело)]
-* 2019-02-23: https://www.komoot.com/tour/305989584[Рождествено: к болотам и обратно (вело)]
-* 2017-08-07: https://www.komoot.com/tour/227875963[Бавария (вело)]
-* 2017-07-22: https://www.komoot.com/tour/237481782[132 км — Тарусская (вело)]
+- 2021-01-10: https://www.komoot.com/tour/305305455[Долина реки Смородинки (лыжи)]
+- 2020-08-10: https://www.komoot.com/tour/305972769[Вдоль Оки (Пахомово — Таруса — Лукьяново; вело)]
+- 2020-05-04: https://www.komoot.com/tour/227052882[Бородино — Шаховская (вело)]
+- 2019-09-29: https://www.komoot.com/tour/227867774[Узуново — 163 км (вело)]
+- 2019-02-23: https://www.komoot.com/tour/305989584[Рождествено: к болотам и обратно (вело)]
+- 2017-08-07: https://www.komoot.com/tour/227875963[Бавария (вело)]
+- 2017-07-22: https://www.komoot.com/tour/237481782[132 км — Тарусская (вело)]
 
-=== Другое ===
+=== Другое
 
-* Методичка -- «Собираемся в поход»: https://sebram.livejournal.com/55366.html[sebram]
+- Методичка -- «Собираемся в поход»: https://sebram.livejournal.com/55366.html[sebram]
+
+== Stuff
+
+- site sources: https://github.com/adrianopol/adrianopol.github.io

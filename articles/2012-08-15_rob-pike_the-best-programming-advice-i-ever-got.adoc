@@ -1,3 +1,5 @@
+:stylesdir: ../css
+
 = The Best Programming Advice I Ever Got
 
 (Aug 15, 2012)

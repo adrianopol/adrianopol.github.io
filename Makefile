@@ -4,7 +4,7 @@ htmls := $(patsubst %.adoc,%.html,$(adocs))
 default: $(htmls)
 
 %.html : %.adoc
-	asciidoctor $<
+	asciidoctor -a stylesheet=paq-dark.css -a linkcss $<
 
 .PHONY: clean
 clean:

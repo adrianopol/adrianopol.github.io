@@ -1,10 +1,11 @@
+:stylesdir: ../css
 :tabsize: 8
 
 = Reflections on Trusting Trust
 
-(original: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
-
 TURING AWARD LECTURE
+
+(original: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 
 _Communications of the ACM, August 1984, Volume 27, Number 8_
 

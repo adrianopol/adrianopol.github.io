@@ -1,0 +1,116 @@
+@import url("asciidoctor-default.css");
+
+/* override color definitions ; TODO: this should be finished! */
+
+body {
+  background: #0d1117;
+  color: rgb(232 230 227 / 0.8);
+}
+
+a {
+  color: #72ace3;
+}
+
+#header > h1:first-child,
+.paragraph.lead > p,
+/**/
+#preamble > .sectionbody > [class=paragraph]:first-of-type p,
+/**/
+.quoteblock blockquote,
+.quoteblock p,
+/**/
+#header .details span.email a {
+  color: rgb(255 255 255 / 0.85);
+}
+
+#header > h1:only-child,
+body.toc2 #header > h1:nth-last-child(2) {
+  border-bottom-color: #7a7a7c;
+}
+
+#header .details {
+  border-bottom-color: #7a7a7c;
+  color: rgb(255 255 255 / 0.7);
+}
+
+#toc {
+  border-bottom-color: #404042;
+}
+
+hr {
+  border-color: #404042;
+}
+
+.sect1+.sect1 {
+  border-top-color: #404042;
+}
+
+h1,
+h2,
+h3,
+#toctitle,
+.sidebarblock > .content > .title,
+h4,
+h5,
+h6,
+/**/
+#content h1 > a.link,
+h2 > a.link,
+h3 > a.link,
+#toctitle > a.link,
+.sidebarblock > .content > .title > a.link,
+h4 > a.link,
+h5 > a.link,
+h6 > a.link {
+  color: #dd6552;
+}
+
+.quoteblock blockquote::before {
+  color: #e68d7f;
+  text-shadow: 0 1px 2px rgb(255 255 255 / 0.1);
+}
+
+.subheader,
+.admonitionblock td.content > .title,
+.audioblock > .title,
+.exampleblock > .title,
+.imageblock > .title,
+.listingblock > .title,
+.literalblock > .title,
+.stemblock > .title,
+.openblock > .title,
+.paragraph > .title,
+.quoteblock > .title,
+table.tableblock > .title,
+.verseblock > .title,
+.videoblock > .title,
+.dlist > .title,
+.olist > .title,
+.ulist > .title,
+.qlist > .title,
+.hdlist > .title {
+  color: #e68d7f;
+}
+
+.literalblock pre,
+.listingblock > .content > pre:not(.highlight),
+.listingblock > .content > pre[class=highlight],
+.listingblock > .content > pre[class^="highlight "] {
+  background: #1a1a1a;
+}
+
+code,
+pre {
+  color: rgb(255 255 255 / 0.9);
+}
+
+table tr th,
+table tr td {
+  color: rgb(255 255 255 / 0.8);
+}
+
+/* monospace font is too large, make it  smaller */
+.literalblock pre,
+.listingblock > .content > pre {
+  font-size: 0.8125em;
+}
