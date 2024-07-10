@@ -1,5 +1,13 @@
-&#9749;
-=======
+// Set caption for figures for the rest of the document to empty string.
+:figure-caption:
+
+= &#9749;
+
+== Articles
+
+- link:articles/2012-08-15_rob-pike_the-best-programming-advice-i-ever-got.html[The Best Programming Advice I Ever Got (Rob Pike)]
+
+== Походы (trips) ==
 
 //TODO
 // set russian quotation marks
@@ -8,29 +16,24 @@
 //{set:ldquo:&laquo;}
 //{set:rdquo:&raquo;}
 
-// Set caption for figures for the rest of the document to empty string.
-:figure-caption:
-
-== Походы ==
-
 === Рассказы ===
 
-* 2022-01-02: link:altai.html[Алтай (лыжи)]
-* 2018-10-15: link:umb.html[Оленегорск--Ревда--Умбозеро--Апатиты (вело)]
+- 2022-01-02: link:altai.html[Алтай (лыжи)]
+- 2018-10-15: link:umb.html[Оленегорск--Ревда--Умбозеро--Апатиты (вело)]
 
 === Чужие рассказы ===
 
-* 2020-08-28: Приполярный Урал (пеший):
+- 2020-08-28: Приполярный Урал (пеший):
   https://sebram.livejournal.com/73378.html[sebram],
   https://an-2.livejournal.com/57635.html[an-2],
   https://www.komoot.com/tour/257522806[my-komoot]
-* 2019-03-15: Байкал (вело, зимний):
+- 2019-03-15: Байкал (вело, зимний):
   https://an-2.livejournal.com/56891.html[an-2],
   https://www.komoot.com/tour/305940779[my-komoot]
-* 2018-07-13: Байкал (байдарки):
+- 2018-07-13: Байкал (байдарки):
   https://sebram.livejournal.com/63081.html[sebram],
   https://an-2.livejournal.com/55629.html[an-2]
-* 2018-05-13: болота Оршинский мох (снегоступы):
+- 2018-05-13: болота Оршинский мох (снегоступы):
   https://sebram.livejournal.com/61338.html[sebram],
   https://www.komoot.com/tour/473014476[my-komoot]
 
