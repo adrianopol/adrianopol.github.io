@@ -5,7 +5,8 @@
 
 == Articles
 
-- link:articles/2012-08-15_rob-pike_the-best-programming-advice-i-ever-got.html[The Best Programming Advice I Ever Got (Rob Pike)]
+- link:articles/1984-08-01_ken-thompson_reflections-on-trusting-trust.html[Reflections on Trusting Trust (Ken Thompson, 1984)]
+- link:articles/2012-08-15_rob-pike_the-best-programming-advice-i-ever-got.html[The Best Programming Advice I Ever Got (Rob Pike, 2012)]
 
 == Походы (trips) ==
 
