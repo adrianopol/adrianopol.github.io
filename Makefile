@@ -1,4 +1,11 @@
-default: index.html umb.html altai.html
+adocs := $(wildcard *.adoc articles/*.adoc)
+htmls := $(patsubst %.adoc,%.html,$(adocs))
 
-%.html: %.adoc
+default: $(htmls)
+
+%.html : %.adoc
 	asciidoctor $<
+
+.PHONY: clean
+clean:
+	rm -f $(htmls)
